@@ -25,7 +25,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
     </a>
     <a href="https://www.postgresql.org" target="_blank">
-        <img src="https://cdn.simpleicons.org/postgresql/FFFFFF" alt="postgresql" width="40" height="40"/>
+        <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="postgresql" width="40" height="40"/>
     </a>
     <a href="https://www.mongodb.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
